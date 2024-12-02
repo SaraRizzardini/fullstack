@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Sara Rizzardini",
+	"description": "A project on the FullStack learning path",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
