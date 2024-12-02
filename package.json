@@ -4,6 +4,7 @@
 	"description": "A project on the FullStack learning path",
 	"keywords": [ "freecodecamp", "training", "kiss" ],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
